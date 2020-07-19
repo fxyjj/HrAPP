@@ -9,3 +9,5 @@ cursor.execute("select * from Employer")
 data = cursor.fetchall()
 
 print(data)
+print(len(data))
+
