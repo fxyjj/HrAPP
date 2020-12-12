@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41b6e0d6-9ac3-4363-9933-0d506f0b4bc3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrolltest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dbConn.py" beforeDir="false" afterPath="$PROJECT_DIR$/dbConn.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
@@ -119,7 +118,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595134061757</updated>
-      <workItem from="1595134064363" duration="8607000" />
+      <workItem from="1595134064363" duration="9549000" />
+      <workItem from="1595152807222" duration="347000" />
+      <workItem from="1595153381961" duration="378000" />
+      <workItem from="1595471605376" duration="19366000" />
+      <workItem from="1595742048050" duration="260000" />
+      <workItem from="1595931320738" duration="829000" />
+      <workItem from="1595988290720" duration="167000" />
+      <workItem from="1595988484153" duration="1642000" />
+      <workItem from="1596114256103" duration="2981000" />
+      <workItem from="1596337504419" duration="59000" />
+      <workItem from="1596337565188" duration="1000" />
     </task>
     <servers />
   </component>
@@ -131,13 +140,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/HrAPP$test.coverage" NAME="test Coverage Results" MODIFIED="1595143883975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HrAPP$test.coverage" NAME="test Coverage Results" MODIFIED="1595485267095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
